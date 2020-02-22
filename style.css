@@ -36,3 +36,8 @@ body{
 .degree-section h2{
   font-size: 40px;
 }
+.location-timezone,
+.displayif{
+  font-family: cursive;
+  font-size: 20px;
+}
